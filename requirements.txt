@@ -1,3 +1,3 @@
 Flask
-pickle
+pickle5
 pandas
