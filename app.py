@@ -1,5 +1,5 @@
 import flask
-import pickle4 as pickle
+import pickle
 import pandas as pd
 
 app = flask.Flask(__name__, template_folder='templates')
