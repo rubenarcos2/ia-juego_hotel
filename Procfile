@@ -1,1 +1,1 @@
-web: gunicorn --bind 0.0.0.0:$PORT flaskapp:app --log-file=-
+web: gunicorn app:app --log-file=-
